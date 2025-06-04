@@ -90,3 +90,7 @@ RAG_QA_With_Groq/
 - **PyPDF**: PDF document processing
 - **Python-dotenv**: Environment variable management
 
+## Screenshots
+
+![RAG QA System Interface](photo.png)
+
